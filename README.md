@@ -8,4 +8,6 @@ https://data.cdc.gov/Public-Health-Surveillance/1998-2021-Serotype-Data-for-Inva
 
 Run the following command to visualize the trend graph.
 
+$ python pneumo.py
+
 <img src='age.png' width=720 height=360>
