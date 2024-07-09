@@ -1,6 +1,6 @@
 # pneumococcal
 
-pneumo.py is for visualizing US trends of Invasive Pneumococcal Disease (IPD) Cases.
+pneumo.py is for visualizing US trends of Invasive Pneumococcal Disease Cases.
 
 Download the dataset file from the following CDC site and rename it to data.csv.
 
