@@ -1,6 +1,6 @@
 # pneumococcal
 
-pneumo.py is used to visualize trends of Invasive pneumococcal disease (IPD) in the US.
+pneumo.py is for visualizing US trends of Invasive Pneumococcal Disease (IPD) Cases.
 
 Download the dataset file from the following CDC site and rename it to data.csv.
 
