@@ -58,7 +58,7 @@ for year in range(1998, 2022):
     for serotype, count in top_3_serotypes.items():
         print(f"Serotype {serotype} ({count} cases); ", end='')
     print()
-
+print()
 df = pd.read_csv('data.csv')
 df = df[(df['Year'] >= 1998) & (df['Year'] <= 2021) & (df['Age Group (years)'] == '65+')]
 
